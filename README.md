@@ -1,6 +1,6 @@
 # CS50
 
-Here is a collection of my projects that I've worked on so far in school's private repository into this public one
+I have compiled a collection of the projects I have worked on so far in my school's private repository and made them publicly available in this repository
 
 Course Title and Description: 
 CS50's Introduction to Computer Science
